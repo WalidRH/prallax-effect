@@ -1,3 +1,14 @@
-p {
-  font-family: Lato;
+.container{
+  height: 100vh;
+  background-image: url("../assets/bg.jpg");
+  
+}
+.sky{
+  
+}
+.mountain{
+
+}
+.road{
+
 }
